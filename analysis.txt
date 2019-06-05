@@ -1,0 +1,24 @@
+# Runtime Analysis for this Task0.py
+- The time Complexity for the problem is O(4n+8) which is equvivalent to O(n)
+- The best case would be O(4n+8) when finding the first element from the list.
+- The worst case would be O(4n+8) when finding the last element from the list.
+
+# Runtime Analysis Task1.py
+- The time Complexity for the problem is O(4n+7) which is equvivalent to O(n).
+- The best case would be O(4n+7).
+- The worst case would be O(4n+7).
+
+# Runtime Analysis Task2.py
+# - The time Complexity for the problem is O(3n+k) which is equvivalent to O(n), where k is a constant, k<=50
+# - The best case would be O(3n+k).
+# - The worst case would be O(3n+k).
+
+# Runtime Analysis for this Task3.py
+# - The time Complexity for the problem is O(3n+k) which is equvivalent to O(n), where k is a constant , where k<=50.
+# - The best case would be O(3n+k).
+# - The worst case would be O(3n+k).
+
+# Runtime Analysis for this Task4.py
+# - The time Complexity for the problem is O(4n+k) which is equvivalent to O(n), where k is a constant , where k<=50
+# - The best case would be O(4n+k).
+# - The worst case would be O(4n+k).
