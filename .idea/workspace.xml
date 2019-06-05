@@ -3,13 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="bfc03fbd-a85d-4538-94fd-0edc2787719d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Task0-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Task0-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/task1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/task1-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/task2.py-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/task2.py-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Task0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Task3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Task4.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/task1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2.py.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/task2.py.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,10 +38,10 @@
         <entry file="file://$PROJECT_DIR$/Task1.py">
           <provider selected="true" editor-type-id="live-pycharm">
             <state>
-              <first_editor relative-caret-position="396">
+              <first_editor relative-caret-position="480">
                 <caret line="20" selection-start-line="20" selection-end-line="20" />
               </first_editor>
-              <second_editor relative-caret-position="-84" />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -64,10 +62,10 @@
         <entry file="file://$PROJECT_DIR$/Task3.py">
           <provider selected="true" editor-type-id="live-pycharm">
             <state>
-              <first_editor relative-caret-position="40">
+              <first_editor relative-caret-position="144">
                 <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="24" />
               </first_editor>
-              <second_editor relative-caret-position="-104" />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -96,10 +94,10 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calls.csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
           <provider editor-type-id="csv-table-editor">
             <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
-          <provider selected="true" editor-type-id="csv-text-editor" />
         </entry>
       </file>
     </leaf>
@@ -116,10 +114,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1832" />
-    <option name="y" value="107" />
-    <option name="width" value="1938" />
-    <option name="height" value="1099" />
+    <option name="x" value="240" />
+    <option name="y" value="128" />
+    <option name="width" value="1440" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -127,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,7 +137,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,18 +169,18 @@
       <option name="presentableId" value="Default" />
       <updated>1559299702709</updated>
       <workItem from="1559299711827" duration="17715000" />
-      <workItem from="1559605498443" duration="2509000" />
+      <workItem from="1559605498443" duration="2787000" />
+      <workItem from="1559725453562" duration="648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20224000" />
+    <option name="totallyTimeSpent" value="21150000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20174263" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20442359" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -196,7 +194,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Pylint" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2659123" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.26449788" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -224,11 +222,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Task1.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state>
+          <first_editor relative-caret-position="480">
+            <caret line="20" selection-start-line="20" selection-end-line="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Task2.py">
       <provider selected="true" editor-type-id="live-pycharm">
         <state>
           <first_editor relative-caret-position="480">
             <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task3.py">
+      <provider selected="true" editor-type-id="live-pycharm">
+        <state>
+          <first_editor relative-caret-position="144">
+            <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
@@ -251,29 +269,9 @@
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/calls.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task3.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor relative-caret-position="40">
-            <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="24" />
-          </first_editor>
-          <second_editor relative-caret-position="-104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Task1.py">
-      <provider selected="true" editor-type-id="live-pycharm">
-        <state>
-          <first_editor relative-caret-position="396">
-            <caret line="20" selection-start-line="20" selection-end-line="20" />
-          </first_editor>
-          <second_editor relative-caret-position="-84" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task1.ipynb">
