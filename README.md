@@ -25,6 +25,7 @@ Once you have completed your solution for each problem, perform a run time analy
 #### Step 4 - Check again Rubric and Submit <br/><br/>
 Use the rubric to check your work before submission. A Udacity Reviewer will give feedback on your work based on this rubric and will leave helpful comments on your code.
 
-Run jupyter Notebook
+
+### Run jupyter Notebook
 
 `conda run jupyter notebook`
