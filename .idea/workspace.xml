@@ -3,11 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="bfc03fbd-a85d-4538-94fd-0edc2787719d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Task0-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Task0-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/task1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/task1-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/task2.py-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/task2.py-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Task0.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Task3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Task4.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/task1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2.py.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/task2.py.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -170,12 +173,12 @@
       <updated>1559299702709</updated>
       <workItem from="1559299711827" duration="17715000" />
       <workItem from="1559605498443" duration="2787000" />
-      <workItem from="1559725453562" duration="648000" />
+      <workItem from="1559725453562" duration="1248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21150000" />
+    <option name="totallyTimeSpent" value="21750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
