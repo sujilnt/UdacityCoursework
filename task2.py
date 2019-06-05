@@ -49,12 +49,6 @@ finalData = read_csv_data("./calls.csv")
 print(finalData["telephone"] +" spent the longest time, total "+ str(finalData["time"]) +" seconds, on the phone during September 2016");
 
 
-# Runtime Analysis <br/>
-# - The time Complexity for the problem is O(3n+k) which is equvivalent to O(n), where k is a constant, k<=50 <br/>
-# - The best case would be O(3n+k).<br/>
-# - The worst case would be O(3n+k).<br/>
-
-
 
 
 

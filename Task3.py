@@ -50,11 +50,6 @@ for code in data["codes"]: # time O(n)
 print(str(data["percentage"]) +" percent of calls from fixed lines in Bangalore are calls to other fixed lines in Bangalore.")
 
 
-# Runtime Analysis for this Task <br/>
-# - The time Complexity for the problem is O(3n+k) which is equvivalent to O(n), where k is a constant , where k<=50 <br/>
-# - The best case would be O(3n+k).<br/>
-# - The worst case would be O(3n+k).<br/>
-
 
 
 

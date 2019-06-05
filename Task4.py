@@ -35,12 +35,6 @@ for marketer in marketerlist: # O(n)
     
 
 
-# Runtime Analysis for this Task <br/>
-# - The time Complexity for the problem is O(4n+k) which is equvivalent to O(n), where k is a constant , where k<=50 <br/>
-# - The best case would be O(4n+k).<br/>
-# - The worst case would be O(4n+k).<br/>
-# 
-
 
 
 

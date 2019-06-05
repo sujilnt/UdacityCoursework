@@ -35,11 +35,6 @@ print("First record of texts, "+ textsData[0] + " texts " + textsData[1] + " at 
 print("First record of calls, "+ callData[0] + " calls " + callData[1] + " at time " + callData[2] + ", lasting " + callData[3] + " seconds")# time O(4)
 
 
-# Runtime Analysis for this Task <br/>
-# - The time Complexity for the problem is O(4n+8) which is equvivalent to O(n) <br/>
-# - The best case would be O(4n+8) when finding the first element from the list.<br/>
-# - The worst case would be O(4n+8) when finding the last element from the list.<br/>
-# 
 
 
 

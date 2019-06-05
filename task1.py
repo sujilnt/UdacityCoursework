@@ -40,11 +40,7 @@ different_numbers = total_different_Total_Number("./texts.csv", telephone_number
 print("There are "+ str(len(different_numbers)) +" different telephone numbers in the records") # time O(3)
 
 
-# Runtime Analysis <br/>
-# - The time Complexity for the problem is O(4n+7) which is equvivalent to O(n) <br/>
-# - The best case would be O(4n+7).<br/>
-# - The worst case would be O(4n+7).<br/>
-# 
+
 
 
 
