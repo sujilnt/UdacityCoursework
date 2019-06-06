@@ -17,23 +17,23 @@ import csv
 
 
 def read_csv_calls(filename,prefix):
-    count=0
-    totalcalls=0;
-    areacodes={};
+    count = 0
+    totalcalls = 0;
+    areacodes = {};
     with open(filename, 'r') as f:
         reader = csv.reader(f) # time O(n)
         calls = list(reader)   # time O(n)
         for i in range(len(calls)):
             caller = calls[i][0]  # time O(2)
-            receiver= calls[i][1]; # time O(2)
-            count = count +1 if ((caller[:len(prefix)] == prefix[:len(prefix)]) & (receiver[:len(prefix)] == prefix[:len(prefix)])) else count 
-            totalcalls = totalcalls + 1 if ((caller[:len(prefix)] == prefix[:len(prefix)])) else totalcalls
-            if(caller[:len(prefix)] == prefix[:len(prefix)]):
+            receiver = calls[i][1]  # time O(2)
+            count = count + 1 if (caller[:len(prefix)] == prefix[:len(prefix)]) & (receiver[:len(prefix)] == prefix[:len(prefix)]) else count
+            totalcalls = totalcalls + 1 if (caller[:len(prefix)] == prefix[:len(prefix)]) else totalcalls
+            if caller[:len(prefix)] == prefix[:len(prefix)]:
                 areacodes[caller] = caller 
     percentage = count / totalcalls 
     return {
-       "percentage": round(percentage,2)*100,
-       "codes": areacodes # length 99 
+       "percentage": round(percentage*100, 2),
+       "codes": areacodes  # length 99
    }
 
 
