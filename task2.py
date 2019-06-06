@@ -26,27 +26,22 @@ def read_csv_data(filename):
     with open(filename,'r') as f:
         reader = csv.reader(f)  #time O(n)
         calls = list(reader) #time O(n)
-        highestValue ={
-            "time": 0,
-            "telephone": ""
-        }
+        highestValue ={}
     for i in range(len(calls)): #time O(n)
         currentValue = calls[i]
         time = int(currentValue[3])
         sender = currentValue[0]
         receiver = currentValue[1]
         setofData[sender] = int(setofData[sender]) + time if sender in setofData else time
-        setofData[receiver] = int(setofData[receiver]) + time if receiver in setofData else time 
-        higherrowValue = sender if setofData[sender] > setofData[receiver] else receiver
-        highestValue = newHighestValue(higherrowValue,setofData[higherrowValue]) if highestValue["time"] < setofData[higherrowValue] else highestValue 
+        setofData[receiver] = int(setofData[receiver]) + time if receiver in setofData else time
+        highestValue = max(zip(setofData.values(), setofData.keys()))
     return highestValue
 
 
 # In[5]:
 
-
 finalData = read_csv_data("./calls.csv")
-print(finalData["telephone"] +" spent the longest time, total "+ str(finalData["time"]) +" seconds, on the phone during September 2016");
+print(finalData[1] + " spent the longest time, total " + str(finalData[0]) + " seconds, on the phone during September 2016");
 
 
 
