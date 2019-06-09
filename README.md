@@ -28,4 +28,4 @@ Use the rubric to check your work before submission. A Udacity Reviewer will giv
 
 ### Run jupyter Notebook
 
-`conda run jupyter notebook`
+`conda run jupyter notebook `
